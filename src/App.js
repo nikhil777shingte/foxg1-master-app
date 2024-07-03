@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          FOXG1 Master App
         </a>
       </header>
     </div>
